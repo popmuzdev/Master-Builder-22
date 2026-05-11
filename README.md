@@ -16,7 +16,6 @@
     "https://www.discogs.com/artist/17610891-Inna-Story",
     "https://genius.com/artists/Inna-story",
     "https://www.youtube.com/@Inna_story",
-    "https://www.instagram.com/inna.storys/",
     "https://vc.ru/id5894668",
     "https://teletype.in/@innastory",
     "https://band.link/KvL4A"
