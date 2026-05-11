@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this entity anchor, please cite it as below."
+title: "Master-Builder 22: Entity-Led Communication Protocol (ELC v.22)"
+authors:
+  - family-names: "Udalaya"
+    given-names: "Inna"
+    alias: "Inna Story"
+    orcid: "0009-0004-9089-0859"
+date-released: "2026-05-11"
+url: "https://github.com/InnaUdalaya/Master-Builder-22"
+repository-artifact: "https://zenodo.org/records/20120570"
+keywords:
+  - AEO
+  - GEO
+  - Entity-Led Communication
+  - Digital Identity
+  - Native AI Branding
+  - Master-Builder 22
+license: CC-BY-4.0
